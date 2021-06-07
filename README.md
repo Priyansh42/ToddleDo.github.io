@@ -25,3 +25,9 @@
 ## Website Link
 
 * Have a look to this web app: https://priyansh42.github.io/toddledo.github.io/
+
+## Demo Video
+
+https://user-images.githubusercontent.com/68781375/121066770-e2b7c800-c7e7-11eb-9a48-8e539073b6cb.mp4
+
+
