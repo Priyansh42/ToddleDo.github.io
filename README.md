@@ -1,5 +1,7 @@
 # ToddleDo-Task Manager
 
+![Mockup](https://user-images.githubusercontent.com/68781375/124805178-ca6ad280-df78-11eb-9076-14bdb33e10f7.jpg)
+
 * **ToddleDo** is a **web based Task Manager application** that stores the tasks in the **local storage** of your browser.
 
 * Ultimately, your tasks won't be lost even if you refresh the page or close the browser.
