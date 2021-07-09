@@ -12,7 +12,7 @@
 
 * **HTML** and **CSS** for the designing purpose.
 
-* **Javascript** for interacting with the local storage of the browser.
+* **JavaScript** for interacting with the local storage of the browser.
 
 ## Features
 
