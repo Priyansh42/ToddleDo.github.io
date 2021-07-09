@@ -1,6 +1,6 @@
 # ToddleDo-Task Manager
 
-![Mockup](https://user-images.githubusercontent.com/68781375/124805178-ca6ad280-df78-11eb-9076-14bdb33e10f7.jpg)
+![Mockup](https://user-images.githubusercontent.com/68781375/125113407-421a3800-e106-11eb-84f5-6cc2a3765b2a.jpg)
 
 * **ToddleDo** is a **web based Task Manager application** that stores the tasks in the **local storage** of your browser.
 
